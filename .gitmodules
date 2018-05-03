@@ -1,0 +1,4 @@
+[submodule "third_party/fastrtps"]
+	path = third_party/fastrtps
+	url = https://github.com/eProsima/Fast-RTPS
+	branch = master
